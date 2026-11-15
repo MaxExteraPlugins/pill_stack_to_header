@@ -28,7 +28,7 @@
 ## 📥 Установка
 
 1. Перейдите во вкладку [**Releases**](https://github.com/MaxExteraPlugins/pill_stack_to_header/releases/latest).
-2. Скачайте файл плагина `pill_stack_to_header_v3.0.0.plugin`.
+2. Скачайте файл плагина `pill_stack_to_header_v3.0.1.plugin`.
 3. Отправьте файл в Telegram (в «Избранное») или откройте его через проводник в exteraGram / AyuGram.
 4. Нажмите на сообщение с плагином и выберите **«Установить плагин»**.
 

@@ -28,7 +28,7 @@ Moves floating action pills into the header bar for a cleaner interface.
 ## 📥 Installation
 
 1. Navigate to the [**Releases**](https://github.com/MaxExteraPlugins/pill_stack_to_header/releases/latest) section.
-2. Download the `pill_stack_to_header_v3.0.0.plugin` file.
+2. Download the `pill_stack_to_header_v3.0.1.plugin` file.
 3. Send the file to your Telegram Saved Messages or open it via file manager in exteraGram / AyuGram.
 4. Tap the file in Telegram and choose **"Install plugin"**.
 
